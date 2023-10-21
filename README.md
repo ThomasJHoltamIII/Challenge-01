@@ -6,7 +6,7 @@ A simple webpage that has been better optimized for the accessibility of both th
 
 
 #Features
-a descriptive CSS and HTML file that is organized for navigation. A webpage that is optimized to look like the provided example but with much cleaner and DRY-er code
+a descriptive CSS and HTML file that is organized for navigation. A webpage that is optimized to look like the provided example but with much cleaner and DRY-er code.
 This code features a significant amount more semantic HTML elements for accessibility, a logical structure to the HTML, alt image attributes, sequential elements, and a short descriptive title. I have also modified the CSS to be significantly more precise and easy to navigate, while also adding some slight flex features for added accessibility on
 different types of screens.
 
